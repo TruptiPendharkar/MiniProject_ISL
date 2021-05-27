@@ -47,7 +47,7 @@ from gray scale image)
 
 ##### <p align="center"> Gray Scale Image for letter A</p>
 
-<img src="https://github.com/TruptiPendharkar/MiniProject_ISL/blob/master/skin.jpg"  align="middle" width="120" height="120" class="marginauto">
+<img align="middle" src="https://github.com/TruptiPendharkar/MiniProject_ISL/blob/master/skin.jpg" width="120" height="120" class="marginauto">
 	 
 <h1 align="center">  &#8659;</h1>
 
