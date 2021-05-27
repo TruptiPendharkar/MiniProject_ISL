@@ -4,9 +4,9 @@ Real Time ISL prediction
 We have done this project in our 5th semester (Aug 2020- December 2020)
 
 
-#METHODOLOGY
+# METHODOLOGY
 
-#1. Dataset Generation:
+# 1. Dataset Generation:
   
 As less research has been done for the Indian Sign Language as compared to ASL proper dataset
 is not available for ISL, so we have prepared our own dataset. We have built a python file
