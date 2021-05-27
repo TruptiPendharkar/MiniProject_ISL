@@ -56,12 +56,12 @@ from gray scale image)
 It is basically a technique which identifies or detects the presence of
 sharp discontinuities in an image there by detecting the edges of the figure in focus.
 
-###### &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Skin Mask for letter A                                         
+##### &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Skin Mask for letter A                                         
    &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  ![Skin Mask Image for letter A](skinmaskA.jpg)	
    
  <h1>&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &#8659;</h1>
 
-##### &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; Edge Detected(Canny Edge detection) Image for letter A
+##### &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; Edge Detected(Canny Edge detection) Image for letter A
    &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; ![Edge Detected Image for letter A](cannyA.jpg)
    
 
