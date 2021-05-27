@@ -40,9 +40,7 @@ grayscale image and SkinMask is finally obtained through HSV color space(which w
 from gray scale image)
 
 ##### <p align="center"> Raw Image for Letter A</p>
-<center>
-<img src="https://github.com/TruptiPendharkar/MiniProject_ISL/blob/master/rawimageA.jpg"  width="120" height="120" class="center">
-</center>
+<center> <img src="https://github.com/TruptiPendharkar/MiniProject_ISL/blob/master/rawimageA.jpg"  width="120" height="120" class="center"> </center>
 
 
 <h1 align="center">  &#8659;</h1>
