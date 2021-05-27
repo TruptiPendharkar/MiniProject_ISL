@@ -4,10 +4,12 @@
 ### We have done this project in our 5th semester (Aug 2020- December 2020)
 
 
+
 ###  <p align="center">METHODOLOGY</p>
 
 ## <p align="center">1. Dataset Generation:</p>
-  
+
+
 As less research has been done for the Indian Sign Language as compared to ASL proper dataset
 is not available for ISL, so we have prepared our own dataset. We have built a python file
 through which we can generate our data for all the Classes. So for creating a dataset we have to
@@ -40,12 +42,19 @@ from gray scale image)
 ##### <p align="center"> Raw Image for Letter A</p>
 
 <img src="https://github.com/TruptiPendharkar/MiniProject_ISL/blob/master/rawimageA.jpg"  width="120" height="120" class="center">
-	 
+
+<style>
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+}
+</style>
+
 <h1 align="center">  &#8659;</h1>
 
 ##### <p align="center"> Gray Scale Image for letter A</p>
 
-<img src="https://github.com/TruptiPendharkar/MiniProject_ISL/blob/master/skin.jpg"  width="120" height="120" class="center">
+<img src="https://github.com/TruptiPendharkar/MiniProject_ISL/blob/master/skin.jpg"  width="120" height="120" class="marginauto">
 	 
 <h1 align="center">  &#8659;</h1>
 
