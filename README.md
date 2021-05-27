@@ -52,14 +52,14 @@ from gray scale image)
 	 
 <h1>&#8659;</h1>
 
-#####  2. Canny Edge Detection:(Center Aligned)
+#####  2. Canny Edge Detection:
 It is basically a technique which identifies or detects the presence of
 sharp discontinuities in an image there by detecting the edges of the figure in focus.
 
 ##### Skin Mask for letter A                                               
    ![Skin Mask Image for letter A](skinmaskA.jpg)         
    
-<h1>&#8659;</h1>
+<pre>     <h1>&#8659;</h1></pre>
 
 ##### Edge Detected(Canny Edge detection) Image for letter A
    ![Edge Detected Image for letter A](cannyA.jpg)
