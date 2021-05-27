@@ -6,7 +6,7 @@
 
 ###  <p align="center">METHODOLOGY</p>
 
-## 1. Dataset Generation:
+## <p align="center">1. Dataset Generation:</p>
   
 As less research has been done for the Indian Sign Language as compared to ASL proper dataset
 is not available for ISL, so we have prepared our own dataset. We have built a python file
@@ -16,8 +16,8 @@ use the Open Computer Vision(OpenCV) library. Firstly we captured around 7000 to
 testing data respectively.
 
 
-##### All Gestures            
-   ![All gestures](all_gestures.jpg) 
+##### <p align="center">All Gestures</p>            
+   <p align="center">![All gestures](all_gestures.jpg)</p> 
 
 
 
