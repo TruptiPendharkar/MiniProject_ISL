@@ -39,7 +39,7 @@ from gray scale image)
 
 ##### <p align="center"> Raw Image for Letter A</p>
 <!--    &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  ![Raw Image for letter A](rawimageA.jpg) -->
-<img src="https://github.com/TruptiPendharkar/MiniProject_ISL/blob/master/rawimageA.jpg"  width="200" height="80">
+<img src="https://github.com/TruptiPendharkar/MiniProject_ISL/blob/master/rawimageA.jpg"  width="150" height="100">
 	 
 <h1 align="center">  &#8659;</h1>
 
