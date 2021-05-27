@@ -40,17 +40,17 @@ from gray scale image)
 ##### <p align="center"> Raw Image for Letter A</p>
    &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  ![Raw Image for letter A](rawimageA.jpg)
 	 
-<h1>&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &#8659;</h1>
+<h1 align="center">  &#8659;</h1>
 
 ##### <p align="center"> Gray Scale Image for letter A</p>
    &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  ![Gray Scale Image for letter A](skin.jpg)
 	 
-<h1>&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &#8659;</h1>
+<h1 align="center">  &#8659;</h1>
 
 ##### <p align="center"> Skin Mask for letter A</p>
    &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  ![Skin Mask Image for letter A](skinmaskA.jpg)
 	 
-<h1>&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &#8659;</h1>
+<h1 align="center"> &#8659;</h1>
 
 #####  2. Canny Edge Detection:
 It is basically a technique which identifies or detects the presence of
@@ -59,7 +59,7 @@ sharp discontinuities in an image there by detecting the edges of the figure in 
 ##### &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Skin Mask for letter A                                         
    &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  ![Skin Mask Image for letter A](skinmaskA.jpg)	
    
- <h1>&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &#8659;</h1>
+ <h1 align="center">  &#8659;</h1>
 
 ##### &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; Edge Detected(Canny Edge detection) Image for letter A
    &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; ![Edge Detected Image for letter A](cannyA.jpg)
