@@ -37,18 +37,18 @@ Using the concept of thresholding this RGB color space is converted into
 grayscale image and SkinMask is finally obtained through HSV color space(which we get
 from gray scale image)
 
-##### Raw Image for Letter A
-   ![Raw Image for letter A](rawimageA.jpg)
+##### &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Raw Image for Letter A
+   &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  ![Raw Image for letter A](rawimageA.jpg)
 	 
 <h1>&#8659;</h1>
 
-##### Gray Scale Image for letter A
-   ![Gray Scale Image for letter A](skin.jpg)
+##### &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Gray Scale Image for letter A
+   &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  ![Gray Scale Image for letter A](skin.jpg)
 	 
 <h1>&#8659;</h1>
 
-##### Skin Mask for letter A
-   ![Skin Mask Image for letter A](skinmaskA.jpg)
+##### &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Skin Mask for letter A
+   &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  ![Skin Mask Image for letter A](skinmaskA.jpg)
 	 
 <h1>&#8659;</h1>
 
