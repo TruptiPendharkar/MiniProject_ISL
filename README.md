@@ -15,12 +15,12 @@ use the Open Computer Vision(OpenCV) library. Firstly we captured around 7000 to
 200 for each 35 labels ISL. Then we divided the dataset in 80:20 percent ratio into training and
 testing data respectively.
 
-<pre>
+
 ##### All Gestures            
-                        ![All gestures](all_gestures.jpg) 
+   ![All gestures](all_gestures.jpg) 
 
 
-</pre>
+
 ## 2.  Image Preprocessing
 
 ### Image Segmentation:
@@ -32,20 +32,22 @@ objects and boundaries (lines, curves, etc.) in images.
 
 Two Basic Steps for image segmentation performed are:
 
-1. Skin Masking : Using the concept of thresholding this RGB color space is converted into
+###### 1. Skin Masking :
+Using the concept of thresholding this RGB color space is converted into
 grayscale image and SkinMask is finally obtained through HSV color space(which we get
 from gray scale image)
 
-#####                                                     Raw Image for Letter A
-                                                  ![Raw Image for letter A](rawimageA.jpg)
+##### Raw Image for Letter A
+   ![Raw Image for letter A](rawimageA.jpg)
 
-#####                                                 Gray Scale Image for letter A
-                                                  ![Gray Scale Image for letter A](skin.jpg)
+##### Gray Scale Image for letter A
+   ![Gray Scale Image for letter A](skin.jpg)
 
-#####                                                     Skin Mask for letter A
-                                                  ![Skin Mask Image for letter A](skinmaskA.jpg)
+##### Skin Mask for letter A
+   ![Skin Mask Image for letter A](skinmaskA.jpg)
 
-2. Canny Edge Detection
+###### 2. Canny Edge Detection:
+
 
 
 
