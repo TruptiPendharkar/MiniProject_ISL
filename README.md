@@ -9,7 +9,7 @@
 ## 1. Dataset Generation:
   
 As less research has been done for the Indian Sign Language as compared to ASL proper dataset
-is not available for ISL, &ensp; so we have prepared our own dataset. We have built a python file
+is not available for ISL, so we have prepared our own dataset. We have built a python file
 through which we can generate our data for all the Classes. So for creating a dataset we have to
 use the Open Computer Vision(OpenCV) library. Firstly we captured around 7000 total images
 200 for each 35 labels ISL. Then we divided the dataset in 80:20 percent ratio into training and
@@ -56,7 +56,7 @@ from gray scale image)
 It is basically a technique which identifies or detects the presence of
 sharp discontinuities in an image there by detecting the edges of the figure in focus.
 
-<pre>                                 <h3>Skin Mask for letter A</h3>     </pre>                                          
+###### &ensp; &ensp; &ensp; Skin Mask for letter A                                         
    ![Skin Mask Image for letter A](skinmaskA.jpg)	<p>&#8658;</p>		         ![Edge Detected Image for letter A](cannyA.jpg)
    
 <pre>     <h1>&#8659;</h1></pre>
