@@ -15,12 +15,12 @@ use the Open Computer Vision(OpenCV) library. Firstly we captured around 7000 to
 200 for each 35 labels ISL. Then we divided the dataset in 80:20 percent ratio into training and
 testing data respectively.
 
-
+<pre>
 ##### All Gestures            
                         ![All gestures](all_gestures.jpg) 
 
 
-
+</pre>
 ## 2.  Image Preprocessing
 
 ### Image Segmentation:
