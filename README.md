@@ -39,19 +39,19 @@ from gray scale image)
 
 ##### <p align="center"> Raw Image for Letter A</p>
 
-<img src="https://github.com/TruptiPendharkar/MiniProject_ISL/blob/master/rawimageA.jpg"  width="120" height="120" class="center>
+<img src="https://github.com/TruptiPendharkar/MiniProject_ISL/blob/master/rawimageA.jpg"  width="120" height="120" class="center">
 	 
 <h1 align="center">  &#8659;</h1>
 
 ##### <p align="center"> Gray Scale Image for letter A</p>
 
-<img src="https://github.com/TruptiPendharkar/MiniProject_ISL/blob/master/skin.jpg"  width="120" height="120" class="center>
+<img src="https://github.com/TruptiPendharkar/MiniProject_ISL/blob/master/skin.jpg"  width="120" height="120" class="center">
 	 
 <h1 align="center">  &#8659;</h1>
 
 ##### <p align="center"> Skin Mask for letter A</p>
    
-<img src="https://github.com/TruptiPendharkar/MiniProject_ISL/blob/master/skinmaskA.jpg"  width="120" height="120" class="center>
+<img src="https://github.com/TruptiPendharkar/MiniProject_ISL/blob/master/skinmaskA.jpg"  width="120" height="120" class="center">
 <h1 align="center"> &#8659;</h1>
 
 #####  2. Canny Edge Detection:
