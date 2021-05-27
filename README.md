@@ -32,7 +32,7 @@ objects and boundaries (lines, curves, etc.) in images.
 
 Two Basic Steps for image segmentation performed are:
 
-###### 1. Skin Masking :
+##### 1. Skin Masking :
 Using the concept of thresholding this RGB color space is converted into
 grayscale image and SkinMask is finally obtained through HSV color space(which we get
 from gray scale image)
@@ -46,7 +46,18 @@ from gray scale image)
 ##### Skin Mask for letter A
    ![Skin Mask Image for letter A](skinmaskA.jpg)
 
-###### 2. Canny Edge Detection:
+##### 2. Canny Edge Detection:
+It is basically a technique which identifies or detects the presence of
+sharp discontinuities in an image there by detecting the edges of the figure in focus.
+
+##### Skin Mask for letter A
+   ![Skin Mask Image for letter A](skinmaskA.jpg)
+   
+##### Edge Detected(Canny Edge detection) Image for letter A
+   ![Edge Detected Image for letter A](cannyA.jpg)
+   
+
+
 
 
 
