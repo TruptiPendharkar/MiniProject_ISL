@@ -51,7 +51,7 @@ It is basically a technique which identifies or detects the presence of
 sharp discontinuities in an image there by detecting the edges of the figure in focus.
 
 ##### Skin Mask for letter A                                                                                      Edge Detected(Canny Edge detection) Image for letter A
-   ![Skin Mask Image for letter A](skinmaskA.jpg)         <h2>&#10233</h2>                                        ![Edge Detected Image for letter A](cannyA.jpg)
+   ![Skin Mask Image for letter A](skinmaskA.jpg)         <h2>&#10233;</h2>                                        ![Edge Detected Image for letter A](cannyA.jpg)
    
 <h1>&#129095;</h1>
 
