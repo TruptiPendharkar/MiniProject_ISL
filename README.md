@@ -68,7 +68,7 @@ sharp discontinuities in an image there by detecting the edges of the figure in 
 
    
 
-### Feature Extraction:
+### <p align="center>"Feature Extraction:</p>
 
 #### 1. Feature Detection
 
@@ -97,6 +97,15 @@ So in this step we obtained visual words for each image.
 In this step we computed Histogram using predicted visual
 words(generated above) or bag of words. This is done by calculating the frequency of each visual word
 belonging to the image in total visual words.
+
+### <p align="center">3. Building SVM Model for Classification</p>
+
+Once all the histograms are generated for the total data set using the above step, the training
+dataset is trained using **Support Vector Machine Classifier** and then predicted with a linear
+kernel. Other Classifiers like CNN, KNN, Logistic Regression can also be used for classification.
+
+Additionally for the purpose of real time recognition the trained model is saved in a file so that a
+user can predict the gesture using video feed in real time.
 
 
 
