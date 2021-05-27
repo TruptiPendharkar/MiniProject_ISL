@@ -1,4 +1,4 @@
-## MiniProject_ISL
+# MiniProject_ISL
 Real Time ISL prediction
 
 We have done this project in our 5th semester (Aug 2020- December 2020)
