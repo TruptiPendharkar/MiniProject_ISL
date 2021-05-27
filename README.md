@@ -1,7 +1,7 @@
 # MiniProject_ISL
-## Real Time ISL prediction
+### Real Time ISL prediction
 
-## We have done this project in our 5th semester (Aug 2020- December 2020)
+### We have done this project in our 5th semester (Aug 2020- December 2020)
 
 
 # METHODOLOGY
@@ -14,5 +14,6 @@ through which we can generate our data for all the Classes. So for creating a da
 use the Open Computer Vision(OpenCV) library. Firstly we captured around 7000 total images
 200 for each 35 labels ISL. Then we divided the dataset in 80:20 percent ratio into training and
 testing data respectively.
+
 
 
