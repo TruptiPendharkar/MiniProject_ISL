@@ -4,7 +4,7 @@
 ### We have done this project in our 5th semester (Aug 2020- December 2020)
 
 
- <p align=center > METHODOLOGY </p>
+###  <p align="center">METHODOLOGY</p>
 
 ## 1. Dataset Generation:
   
