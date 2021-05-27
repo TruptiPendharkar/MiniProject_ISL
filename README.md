@@ -52,7 +52,7 @@ from gray scale image)
 	 
 <h1>&#8659;</h1>
 
-##### 2. Canny Edge Detection:
+#####  2. Canny Edge Detection:(Center Aligned)
 It is basically a technique which identifies or detects the presence of
 sharp discontinuities in an image there by detecting the edges of the figure in focus.
 
