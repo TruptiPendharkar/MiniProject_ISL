@@ -38,17 +38,17 @@ grayscale image and SkinMask is finally obtained through HSV color space(which w
 from gray scale image)
 
 ##### <p align="center"> Raw Image for Letter A</p>
-   &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  ![Raw Image for letter A](rawimageA.jpg)
+   &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  ![Raw Image for letter A](rawimageA.jpg)
 	 
 <h1 align="center">  &#8659;</h1>
 
 ##### <p align="center"> Gray Scale Image for letter A</p>
-   &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  ![Gray Scale Image for letter A](skin.jpg)
+   &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; ![Gray Scale Image for letter A](skin.jpg)
 	 
 <h1 align="center">  &#8659;</h1>
 
 ##### <p align="center"> Skin Mask for letter A</p>
-   &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  ![Skin Mask Image for letter A](skinmaskA.jpg)
+   &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  ![Skin Mask Image for letter A](skinmaskA.jpg)
 	 
 <h1 align="center"> &#8659;</h1>
 
@@ -57,12 +57,12 @@ It is basically a technique which identifies or detects the presence of
 sharp discontinuities in an image there by detecting the edges of the figure in focus.
 
 ##### &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Skin Mask for letter A                                         
-   &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  ![Skin Mask Image for letter A](skinmaskA.jpg)	
+   &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; ![Skin Mask Image for letter A](skinmaskA.jpg)	
    
  <h1 align="center">  &#8659;</h1>
 
 ##### &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; Edge Detected(Canny Edge detection) Image for letter A
-   &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; ![Edge Detected Image for letter A](cannyA.jpg)
+   &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; ![Edge Detected Image for letter A](cannyA.jpg)
    
 
 ### Feature Extraction:
