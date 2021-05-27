@@ -4,9 +4,9 @@
 ### We have done this project in our 5th semester (Aug 2020- December 2020)
 
 
-# METHODOLOGY
+## METHODOLOGY
 
-# 1. Dataset Generation:
+## 1. Dataset Generation:
   
 As less research has been done for the Indian Sign Language as compared to ASL proper dataset
 is not available for ISL, so we have prepared our own dataset. We have built a python file
@@ -14,6 +14,24 @@ through which we can generate our data for all the Classes. So for creating a da
 use the Open Computer Vision(OpenCV) library. Firstly we captured around 7000 total images
 200 for each 35 labels ISL. Then we divided the dataset in 80:20 percent ratio into training and
 testing data respectively.
+
+
+
+## 2.  Image Preprocessing
+
+### Image Segmentation:
+
+The goal of Image segmentation is to remove background and noises or we can say simplify
+and/or change the representation of an image into something which is Region of Interest (ROI)
+and the only useful information in the image. Image segmentation is typically used to locate
+objects and boundaries (lines, curves, etc.) in images.
+
+Two Basic Steps for image segmentation performed are:
+
+1. Skin Masking
+2. Canny Edge Detection
+
+
 
 
 
