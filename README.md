@@ -46,9 +46,9 @@ from gray scale image)
 <h1 align="center">  &#8659;</h1>
 
 ##### <p align="center"> Gray Scale Image for letter A</p>
-
+<body>
 <img align="middle" src="https://github.com/TruptiPendharkar/MiniProject_ISL/blob/master/skin.jpg" width="120" height="120" class="marginauto">
-	 
+</body>	 
 <h1 align="center">  &#8659;</h1>
 
 ##### <p align="center"> Skin Mask for letter A</p>
