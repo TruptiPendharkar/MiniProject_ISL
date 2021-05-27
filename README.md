@@ -65,6 +65,14 @@ sharp discontinuities in an image there by detecting the edges of the figure in 
    ![Edge Detected Image for letter A](cannyA.jpg)
    
 
+### Feature Extraction:
+
+#### 1. Feature Detection
+
+key features of the image were extracted using SURF technique.
+SURF is a feature extraction algorithm which is robust against rotation variation scaling.
+We have extracted features using the inbuilt SURF function in opencv.
+
 
 
 
