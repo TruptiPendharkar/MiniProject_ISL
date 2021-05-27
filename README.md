@@ -23,7 +23,7 @@ testing data respectively.
 
 
 
-### <p align="center">2.  Image Preprocessing</p>
+## <p align="center">2.  Image Preprocessing</p>
 
 ### Image Segmentation:
 
@@ -68,7 +68,7 @@ sharp discontinuities in an image there by detecting the edges of the figure in 
 
    
 
-### <p align="center>"Feature Extraction:</p>
+## <p align="center">3. Feature Extraction:</p>
 
 #### 1. Feature Detection
 
@@ -98,7 +98,7 @@ In this step we computed Histogram using predicted visual
 words(generated above) or bag of words. This is done by calculating the frequency of each visual word
 belonging to the image in total visual words.
 
-### <p align="center">3. Building SVM Model for Classification</p>
+## <p align="center">4. Building SVM Model for Classification</p>
 
 Once all the histograms are generated for the total data set using the above step, the training
 dataset is trained using **Support Vector Machine Classifier** and then predicted with a linear
