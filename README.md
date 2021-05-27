@@ -15,6 +15,7 @@ use the Open Computer Vision(OpenCV) library. Firstly we captured around 7000 to
 200 for each 35 labels ISL. Then we divided the dataset in 80:20 percent ratio into training and
 testing data respectively.
 
+https://github.com/TruptiPendharkar/MiniProject_ISL/blob/master/all_gestures.jpg
 
 
 ## 2.  Image Preprocessing
@@ -28,8 +29,15 @@ objects and boundaries (lines, curves, etc.) in images.
 
 Two Basic Steps for image segmentation performed are:
 
-1. Skin Masking
+1. Skin Masking : Using the concept of thresholding this RGB color space is converted into
+grayscale image and SkinMask is finally obtained through HSV color space(which we get
+from gray scale image)
+
+
+
 2. Canny Edge Detection
+
+
 
 
 
