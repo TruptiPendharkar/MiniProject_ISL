@@ -34,7 +34,7 @@ objects and boundaries (lines, curves, etc.) in images.
 
 Two Basic Steps for image segmentation performed are:
 
-##### <p align="center">1. Skin Masking :</p>
+##### 1. Skin Masking :
 Using the concept of thresholding this RGB color space is converted into
 grayscale image and SkinMask is finally obtained through HSV color space(which we get
 from gray scale image)
@@ -57,13 +57,13 @@ from gray scale image)
 It is basically a technique which identifies or detects the presence of
 sharp discontinuities in an image there by detecting the edges of the figure in focus.
 
-##### <p align="center> Skin Mask for letter A </p>                                        
+##### <p align="center"> Skin Mask for letter A </p>                                        
   &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; ![All gestures](skinmaskA.jpg) 
 
    
  <h1 align="center">  &#8659;</h1>
 
-##### <p align="center> Edge Detected(Canny Edge detection) Image for letter A</p>
+##### <p align="center"> Edge Detected(Canny Edge detection) Image for letter A</p>
   &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; ![All gestures](cannyA.jpg) 
 
    
@@ -76,11 +76,14 @@ key features of the image were extracted using SURF technique.
 SURF is a feature extraction algorithm which is robust against rotation variation scaling.
 We have extracted features using the inbuilt SURF function in opencv.
 
-##### <p align="center>Image for letter A after SURF</p>
+##### <p align="center">Image for letter A after SURF </p>
   &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; ![All gestures](surf_feature_imageA.jpg)   
 
+#### 2. Clustering
 
-
+To cluster all the features obtained in the above step we apply mini batch kmeans
+clustering(similar to K-means clustering but efficient in terms of time
+consumption and memory).
 
 
 
