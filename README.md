@@ -86,6 +86,19 @@ clustering(similar to K-means clustering but efficient in terms of time
 consumption and memory).
 
 
+In our code we have taken k as 8 for the image of each label. So the cluster size or total
+number of feature descriptors are 8 * 35. After training of all SURF features (extracted in
+above step) through mini batch k-means clustering, all similar features are clustered in a
+cluster. Total number of clusters are also known as visual words.
+So in this step we obtained visual words for each image.
+
+#### 3. Histogram Computation
+
+In this step we computed Histogram using predicted visual
+words(generated above) or bag of words. This is done by calculating the frequency of each visual word
+belonging to the image in total visual words.
+
+
 
 
 
