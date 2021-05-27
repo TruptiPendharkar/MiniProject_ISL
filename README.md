@@ -38,19 +38,20 @@ grayscale image and SkinMask is finally obtained through HSV color space(which w
 from gray scale image)
 
 ##### <p align="center"> Raw Image for Letter A</p>
-<!--    &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  ![Raw Image for letter A](rawimageA.jpg) -->
-<img src="https://github.com/TruptiPendharkar/MiniProject_ISL/blob/master/rawimageA.jpg" align="center" width="120" height="120">
+
+<img src="https://github.com/TruptiPendharkar/MiniProject_ISL/blob/master/rawimageA.jpg"  width="120" height="120" class="center>
 	 
 <h1 align="center">  &#8659;</h1>
 
 ##### <p align="center"> Gray Scale Image for letter A</p>
-   &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; ![Gray Scale Image for letter A](skin.jpg)
+
+<img src="https://github.com/TruptiPendharkar/MiniProject_ISL/blob/master/skin.jpg"  width="120" height="120" class="center>
 	 
 <h1 align="center">  &#8659;</h1>
 
 ##### <p align="center"> Skin Mask for letter A</p>
-   &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  ![Skin Mask Image for letter A](skinmaskA.jpg)
-	 
+   
+<img src="https://github.com/TruptiPendharkar/MiniProject_ISL/blob/master/skinmaskA.jpg"  width="120" height="120" class="center>
 <h1 align="center"> &#8659;</h1>
 
 #####  2. Canny Edge Detection:
