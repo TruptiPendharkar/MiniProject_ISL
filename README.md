@@ -56,7 +56,7 @@ from gray scale image)
 It is basically a technique which identifies or detects the presence of
 sharp discontinuities in an image there by detecting the edges of the figure in focus.
 
-##### Skin Mask for letter A                                               
+<pre>                                  ##### Skin Mask for letter A     </pre>                                          
    ![Skin Mask Image for letter A](skinmaskA.jpg)	<p>&#8658;</p>		         ![Edge Detected Image for letter A](cannyA.jpg)
    
 <pre>     <h1>&#8659;</h1></pre>
