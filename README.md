@@ -39,12 +39,13 @@ from gray scale image)
 
 ##### Raw Image for Letter A
    ![Raw Image for letter A](rawimageA.jpg)
-
+<h1>&#8659;</h1>
 ##### Gray Scale Image for letter A
    ![Gray Scale Image for letter A](skin.jpg)
-
+<h1>&#8659;</h1>
 ##### Skin Mask for letter A
    ![Skin Mask Image for letter A](skinmaskA.jpg)
+<h1>&#8659;</h1>
 
 ##### 2. Canny Edge Detection:
 It is basically a technique which identifies or detects the presence of
