@@ -16,14 +16,14 @@ use the Open Computer Vision(OpenCV) library. Firstly we captured around 7000 to
 testing data respectively.
 
 
-### All Gestures
-![All gestures](all_gestures.jpg) 
+##### All Gestures            
+                        ![All gestures](all_gestures.jpg) 
 
-All gestures
+
 
 ## 2.  Image Preprocessing
 
-##### Image Segmentation:
+### Image Segmentation:
 
 The goal of Image segmentation is to remove background and noises or we can say simplify
 and/or change the representation of an image into something which is Region of Interest (ROI)
@@ -36,14 +36,14 @@ Two Basic Steps for image segmentation performed are:
 grayscale image and SkinMask is finally obtained through HSV color space(which we get
 from gray scale image)
 
-##### Raw Image for Letter A
-![Raw Image for letter A](rawimageA.jpg)
+#####                                                     Raw Image for Letter A
+                                                  ![Raw Image for letter A](rawimageA.jpg)
 
-##### Gray Scale Image for letter A
-![Gray Scale Image for letter A](skin.jpg)
+#####                                                 Gray Scale Image for letter A
+                                                  ![Gray Scale Image for letter A](skin.jpg)
 
-##### Skin Mask for letter A
-![Skin Mask Image for letter A](skinmaskA.jpg)
+#####                                                     Skin Mask for letter A
+                                                  ![Skin Mask Image for letter A](skinmaskA.jpg)
 
 2. Canny Edge Detection
 
