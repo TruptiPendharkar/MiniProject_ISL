@@ -53,8 +53,8 @@ sharp discontinuities in an image there by detecting the edges of the figure in 
 ##### Skin Mask for letter A
    ![Skin Mask Image for letter A](skinmaskA.jpg)
    
- # 8595
-   
+<kbd>&darr;</kbd>
+
 ##### Edge Detected(Canny Edge detection) Image for letter A
    ![Edge Detected Image for letter A](cannyA.jpg)
    
