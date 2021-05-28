@@ -120,3 +120,4 @@ the model prediction as the data set has much similar images without variations.
 
 ##### Confusion matrix we get for classifying testing data on our model
 
+![alt text](Confusion_matrix.png)
