@@ -19,7 +19,7 @@ testing data respectively.
 
 
 ##### <p align="center">All Gestures</p>            
-   &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; ![All gestures](all_gestures.jpg) 
+   &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  ![All gestures](all_gestures.jpg) 
 
 
 
