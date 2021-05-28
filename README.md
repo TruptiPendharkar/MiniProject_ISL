@@ -116,4 +116,6 @@ the model prediction as the data set has much similar images without variations.
 
 ##### Some SS of output
 
-![alt text](prediction_for_A_1.png) &ensp; &ensp;  &ensp;  ![alt text](prediction_for_B_1.png) &ensp; &ensp;  &ensp;  ![alt text](prediction_for_D_1.png) 
+![alt text](prediction_for_A_1.png) &ensp; &ensp;  &ensp;  ![alt text](prediction_for_B_1.png) 
+
+##### Con
