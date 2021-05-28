@@ -40,7 +40,7 @@ grayscale image and SkinMask is finally obtained through HSV color space(which w
 from gray scale image)
 
 ##### <p align="center"> Raw Image for Letter A</p>
- &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  ![All gestures](rawimageA.jpg) 
+ &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;   ![All gestures](rawimageA.jpg) 
 
 
 <h1 align="center">  &#8659;</h1>
