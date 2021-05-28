@@ -114,5 +114,6 @@ real time recognition prediction of results can be seen by the figure below. Usi
 data images always helps us to get a better efficiency in result as there could be slight biasing in
 the model prediction as the data set has much similar images without variations.
 
+##### Some SS of output
 
-
+![alt text](prediction_for_A_1.png) &ensp; &ensp; ![alt text](prediction_for_A_1.png) &ensp; &ensp; ![alt text](prediction_for_A_1.png) 
