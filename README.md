@@ -5,9 +5,9 @@
 
 
 
-###  <p align="center">METHODOLOGY</p>
+##  <p align="center">METHODOLOGY</p>
 
-## <p align="center">1. Dataset Generation:</p>
+### <p align="center">1. Dataset Generation:</p>
 
 
 As less research has been done for the Indian Sign Language as compared to ASL proper dataset
@@ -23,9 +23,9 @@ testing data respectively.
 
 
 
-## <p align="center">2.  Image Preprocessing</p>
+### <p align="center">2.  Image Preprocessing</p>
 
-### Image Segmentation:
+#### Image Segmentation:
 
 The goal of Image segmentation is to remove background and noises or we can say simplify
 and/or change the representation of an image into something which is Region of Interest (ROI)
@@ -68,7 +68,7 @@ sharp discontinuities in an image there by detecting the edges of the figure in 
 
    
 
-## <p align="center">3. Feature Extraction:</p>
+### <p align="center">3. Feature Extraction:</p>
 
 #### 1. Feature Detection
 
@@ -98,7 +98,7 @@ In this step we computed Histogram using predicted visual
 words(generated above) or bag of words. This is done by calculating the frequency of each visual word
 belonging to the image in total visual words.
 
-## <p align="center">4. Building SVM Model for Classification</p>
+### <p align="center">4. Building SVM Model for Classification</p>
 
 Once all the histograms are generated for the total data set using the above step, the training
 dataset is trained using **Support Vector Machine Classifier** and then predicted with a linear
@@ -107,7 +107,12 @@ kernel. Other Classifiers like CNN, KNN, Logistic Regression can also be used fo
 Additionally for the purpose of real time recognition the trained model is saved in a file so that a
 user can predict the gesture using video feed in real time.
 
+## <p align="center">RESULTS</p>
 
+We scored a 99% accuracy using the Bow, integrated with robust SURF feature descriptors. The
+real time recognition prediction of results can be seen by the figure below. Using a large set of
+data images always helps us to get a better efficiency in result as there could be slight biasing in
+the model prediction as the data set has much similar images without variations.
 
 
 
