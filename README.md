@@ -119,5 +119,4 @@ the model prediction as the data set has much similar images without variations.
 ![alt text](prediction_for_A_1.png) &ensp; &ensp;  &ensp;  ![alt text](prediction_for_B_1.png) 
 
 ##### Confusion matrix we get for classifying testing data on our model
-![alt text](confusion_matrix.png)
 
