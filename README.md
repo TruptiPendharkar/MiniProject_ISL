@@ -58,7 +58,7 @@ It is basically a technique which identifies or detects the presence of
 sharp discontinuities in an image there by detecting the edges of the figure in focus.
 
 ##### <p align="center"> Skin Mask for letter A </p>                                        
-  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; ![All gestures](skinmaskA.jpg) 
+  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; ![All gestures](skin.jpg) 
 
    
  <h1 align="center">  &#8659;</h1>
